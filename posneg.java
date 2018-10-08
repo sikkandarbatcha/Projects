@@ -1,4 +1,5 @@
 import java.util.*;
+public class posneg {
 public static void main(String args[])
 {
 Scanner sc = new Scanner(System.in);
@@ -15,3 +16,4 @@ else {
  System.out.println("ZERO");
  }
 } 
+}
